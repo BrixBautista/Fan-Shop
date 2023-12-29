@@ -556,7 +556,7 @@ section{
 }
 
 #s4 li{
-   margin-right: 170px;
+   margin-right: 160px;
    font-size: 30px;
 
    @media screen and (max-width:767px){
