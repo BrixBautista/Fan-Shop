@@ -86,7 +86,7 @@ a:hover{
        float: inline-start !important;
         display: flex;
         position: relative;
-        left: -50%;
+        left: -43%;
         }
 
         @media screen and (min-width:767px) and (max-width:1023px){
@@ -431,7 +431,7 @@ section{
         /* smartphone */
         width: 70px;
         height: 70px;
-
+         margin: 2%;
         
         }
 
