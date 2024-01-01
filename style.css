@@ -41,6 +41,7 @@ html{
         margin-right: 30px;
         margin-bottom: 0px;
         top: 20%;
+        left: 2%;
         }
 
         @media screen and (min-width:767px) and (max-width:1023px){
@@ -81,11 +82,11 @@ a:hover{
     @media screen and (max-width:767px){
         /* smartphone */
        
-        font-size: 10px;
+        font-size: 15px;
        float: inline-start !important;
         display: flex;
         position: relative;
-        left: -30%;
+        left: -60%;
         }
 
         @media screen and (min-width:767px) and (max-width:1023px){
@@ -428,8 +429,8 @@ section{
 
     @media screen and (max-width:767px){
         /* smartphone */
-        width: 80px;
-        height: 90px;
+        width: 70px;
+        height: 70px;
 
         
         }
@@ -499,7 +500,7 @@ section{
 
     position: relative;
     bottom: 53px;
-    left: 25px;
+    left: 15px;
     
     }
 
@@ -549,7 +550,7 @@ section{
         /* smartphone */
         display: block;
 
-        top: 10%;
+        top: 15%;
         left: 8%;
         }
 
@@ -564,6 +565,7 @@ section{
     /* smartphone */
     margin-bottom: 10%;
     font-size: 20px;
+       margin-right: 0px;
     }
 
     @media screen and (min-width:767px) and (max-width:1023px){
