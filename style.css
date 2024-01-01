@@ -37,7 +37,7 @@ html{
     @media screen and (max-width:767px){
         /* smartphone */
         text-align: center;
-        font-size: 30px;
+        font-size: 20px;
         margin-right: 30px;
         margin-bottom: 0px;
         top: 20%;
@@ -81,7 +81,7 @@ a:hover{
     @media screen and (max-width:767px){
         /* smartphone */
        
-        font-size: 15px;
+        font-size: 10px;
        float: inline-start;
         display: flex;
         position: relative;
@@ -154,7 +154,7 @@ section{
     @media screen and (max-width:767px){
         /* smartphone */
         color: hsla(0, 0%, 0%, 0.76);
-        font-size: 100px;
+        font-size: 80px;
         background: linear-gradient(to right, hsla(0, 0%, 45%, 0.747),rgba(255, 255, 255, 0));
         }
 }
@@ -168,7 +168,7 @@ section{
     @media screen and (max-width:767px){
         /* smartphone */
         max-width: 80%;
-        font-size: 20px;
+        font-size: 15px;
         }
 }
 
@@ -232,7 +232,7 @@ section{
 
     @media screen and (max-width:767px){
         /* smartphone */
-        width: 350px;
+        width: 80%;
         }
 
         @media screen and (min-width:767px) and (max-width:1023px){
@@ -281,7 +281,7 @@ section{
 
     @media screen and (max-width:767px){
         /* smartphone */
-        width: 350px
+        width: 80%;
         }
 
         @media screen and (min-width:767px) and (max-width:1023px){
@@ -376,8 +376,8 @@ section{
 
     @media screen and (max-width:767px){
         /* smartphone */
-        width: 90px;
-        height: 90px;
+        width: 60px;
+        height: 60px;
 
         
         }
