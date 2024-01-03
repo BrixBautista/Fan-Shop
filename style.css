@@ -10,7 +10,9 @@ html{
   
 }
 
-
+body{
+    overflow-x:hidden;
+}
 
 
 .nav{
@@ -86,7 +88,7 @@ a:hover{
        float: inline-start !important;
         display: flex;
         position: relative;
-        left: -43%;
+        left: 43%;
         }
 
         @media screen and (min-width:767px) and (max-width:1023px){
